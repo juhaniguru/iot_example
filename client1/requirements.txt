@@ -1,0 +1,5 @@
+paho-mqtt
+pyJWT[crypto]
+pymongo[srv]
+requests
+python-dotenv
